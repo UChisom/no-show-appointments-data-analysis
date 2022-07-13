@@ -19,4 +19,3 @@ Do the gender of patients account for no-show appointments?
 
 ### References
 The data set was gotten from kaggle through this link: (Kaggle page)[https://www.kaggle.com/joniarroba/noshowappointments]
-The project was undertaken as part of a Udacity data analyis course project requirement
