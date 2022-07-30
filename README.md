@@ -62,4 +62,3 @@ From the analysis performed on the different independent featured of the **no-sh
 
 ### References
 The data set was gotten from kaggle through this link: (Kaggle page)[https://www.kaggle.com/joniarroba/noshowappointments]
-The project was undertaken as part of a Udacity data analyis course project requirement
