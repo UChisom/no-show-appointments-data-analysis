@@ -11,7 +11,7 @@ The features considered were captured as columns of the tables (data frames). Th
 - Gender - Male or Female
 - ScheduledDay - The day of the actual appointment, when they have to visit the doctor
 - AppointmentDay - The day the appointment was registered
-- Age - How old the patient is.
+- Age - How old the patient is
 - Neighbourhood - Where the appointment takes place
 - Scholarship - True or False
 - Hipertension - True or False
